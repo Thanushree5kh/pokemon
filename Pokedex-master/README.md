@@ -20,14 +20,14 @@ Before start working on this project, your local environment should have followi
 
 ## Project Setup
 Follow the steps to setup this project on your local environment - 
-* Clone repository - `https://github.com/abhishekk-raj/Pokedex.git`
-* Goto project directory - `cd Pokedex`
+* Clone repository - `https://github.com/Thanushreekh/Pokemon.git`
+* Goto project directory - `cd Pokemon`
 * Install dependencies - `yarn`
 
 ## Run Project
 It seems you are ready to contribute, please following the steps below - 
 * Run command `yarn start` to run the project
-* After successfully build, it will navigate you to the browser window - `http://localhost:19002/`. 
+* After successfully build, it will navigate you to the browser window - `http://localhost:19006/`. 
     * At the left panel, you can see the list of device to run the app on. 
     * Select the device of your choice and run the application.
 
